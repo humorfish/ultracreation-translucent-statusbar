@@ -1,0 +1,23 @@
+{
+  "name": "ultracreation-translucent-statusbar",
+  "version": "0.0.1",
+  "description": "This plugin provides statusbar communication for Android.",
+  "cordova": {
+    "id": "ultracreation-translucent-statusbar",
+    "platforms": [
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/humorfish/ultracreation-translucent-statusbar.git"
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "author": "",
+  "license": "BSD",
+  
+  "homepage": "https://github.com/humorfish/ultracreation-translucent-statusbar"
+}
