@@ -1,4 +1,4 @@
-cordova-plugin-customstatusbar
+ultracreation-translucent-statusbar
 ============================
  
 Enable or disable Android 4.4's translucent statusbar.
